@@ -1,7 +1,7 @@
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Nao"
+title = "Heya, it's Nao!"
 
 [params]
 displayName = "EN"
@@ -9,5 +9,5 @@ isoCode = "en"
 rtl = false
 description = "My awesome website"
 dateFormat = "2 January 2006"
-author = { name = "Red Blowfish", image = "img/avatar.png", headline = "This is my website with my links", bio = "A little bit about you", links = [ { link = "https://nunocoracao.github.io/blowfish/" }, { github = "https://github.com/nunocoracao/blowfish" }, { x-twitter = "https://twitter.com/burufugu" } ] }
+author = { name = "Heya, it's Nao!", image = "img/avatar.png", headline = "Behold! A snapshot of my projects 😸", bio = "Heya, it's Nao! I'm a curious cat who loves solving Computer Vision and Machine Learning problems with geospatial datasets. I have a wealth of experience designing systems and developing ML pipelines in remote sensing, agriculture, medicine, and 3D modelling. I'll geek out about music, cinematography, cosplay, and martial arts. I'm always down to tackle difficult problems, and I'm an independent and reliable problem-solver who never backs down from a challenge.", links = [ { link = "https://nunocoracao.github.io/blowfish/" }, { github = "https://github.com/nunocoracao/blowfish" }, { x-twitter = "https://twitter.com/burufugu" } ] }
 
